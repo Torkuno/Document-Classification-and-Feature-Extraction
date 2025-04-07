@@ -27,7 +27,7 @@ def normalize_bbox(bbox, size):
 
 _URLS = []
 
-data_path = r"c:\Users\TMesa\OneDrive\IE University\Y3\S2\Statistical Learning and Prediction\Project"
+data_path = os.getcwd()
 
 class DatasetConfig(datasets.BuilderConfig):
     """BuilderConfig for InvoiceExtraction Dataset"""
