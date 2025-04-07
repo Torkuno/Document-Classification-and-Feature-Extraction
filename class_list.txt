@@ -1,0 +1,1 @@
+Invoice number,Invoice date,Due date,Issuer name,Recipient name,Total amount
